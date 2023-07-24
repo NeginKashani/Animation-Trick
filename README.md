@@ -1,8 +1,8 @@
-# template by html & css
+#Animation
 
 **If you have a lot of information to display on your site, why don't you use my accordion menu**
 
-![image1](https://github.com/NeginKashani/website1/assets/109550062/5d41a85c-20ed-4e6b-a1ff-471499832ffb)
+![cloud](https://github.com/NeginKashani/Animation-Trick/assets/109550062/f0906c7a-6cb0-40ed-ad02-9ee71056e917)
 
 
 
