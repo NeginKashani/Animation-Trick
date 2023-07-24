@@ -12,9 +12,9 @@
 
 - Developed by Negin Kashani
 
-- Created - 2023-06-22
+- Created - 2023-07-23
 
-- Technologies Used - Html ,CSS 
+- Technologies Used - Html ,CSS ,SASS
 
 - Hooks Used : useState 
 
